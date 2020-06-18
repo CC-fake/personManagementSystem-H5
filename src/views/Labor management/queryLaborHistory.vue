@@ -16,11 +16,11 @@
             </el-table-column>
             <el-table-column
                     prop="oldInfo"
-                    label="上次考核">
+                    label="原薪水">
             </el-table-column>
             <el-table-column
                     prop="newInfo"
-                    label="本次考核">
+                    label="新薪水">
             </el-table-column>
             <el-table-column
                     prop="chgTime"
